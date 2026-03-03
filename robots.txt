@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://instika-jurnal.github.io/news/sitemap.xml
